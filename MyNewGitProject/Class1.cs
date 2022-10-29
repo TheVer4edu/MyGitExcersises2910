@@ -8,7 +8,7 @@ namespace MyNewGitProject
 {
     internal class Class1
     {   
-        static void EvenNumbers()
+        public static void EvenNumbers()
         {
             for (int i = 0; i < 11; i += 2)
             {

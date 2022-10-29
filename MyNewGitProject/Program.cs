@@ -8,8 +8,16 @@ namespace MyNewGitProject {
                 Console.Write(c);
             }
             Console.WriteLine();
+
+            Console.WriteLine("Вывод нечётных чисел");
             
+            OddNumbers numbers = new OddNumbers(10);
+            Console.WriteLine(numbers.ToString());
+
+            Console.WriteLine("Вывод чётных чисел");
             
+            Class1.EvenNumbers();
+
         }
     }
 }

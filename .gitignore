@@ -5,3 +5,5 @@ obj/
 MyNewGitProject/obj/
 .vs/
 .git/
+*.exe
+*.dll

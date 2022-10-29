@@ -1,0 +1,7 @@
+﻿.idea/
+bin/
+MyNewGitProject/bin/
+obj/
+MyNewGitProject/obj/
+.vs/
+.git/

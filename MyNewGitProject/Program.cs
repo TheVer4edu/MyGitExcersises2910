@@ -8,6 +8,8 @@ namespace MyNewGitProject {
                 Console.Write(c);
             }
             Console.WriteLine();
+
+            Console.WriteLine(1231231);
         }
     }
 }

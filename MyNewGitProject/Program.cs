@@ -9,7 +9,15 @@ namespace MyNewGitProject {
             }
             Console.WriteLine();
 
-            Console.WriteLine(1231231);
+            Console.WriteLine("Вывод нечётных чисел");
+            
+            OddNumbers numbers = new OddNumbers(10);
+            Console.WriteLine(numbers.ToString());
+
+            Console.WriteLine("Вывод чётных чисел");
+            
+            Class1.EvenNumbers();
+
         }
     }
 }
